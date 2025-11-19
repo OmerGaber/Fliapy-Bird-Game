@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "01ca589d-9441-476c-9ff4-f45465d6c534": {
+      "ProjectGuid": "01ca589d-9441-476c-9ff4-f45465d6c534",
+      "DisplayName": "Fliapy Bird Game",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

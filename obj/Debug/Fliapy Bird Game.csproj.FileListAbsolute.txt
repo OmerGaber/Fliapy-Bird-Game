@@ -1,0 +1,11 @@
+C:\Users\lenovo\Desktop\Excesize_C#\Fliapy Bird Game\bin\Debug\Fliapy Bird Game.exe.config
+C:\Users\lenovo\Desktop\Excesize_C#\Fliapy Bird Game\bin\Debug\Fliapy Bird Game.exe
+C:\Users\lenovo\Desktop\Excesize_C#\Fliapy Bird Game\bin\Debug\Fliapy Bird Game.pdb
+C:\Users\lenovo\Desktop\Excesize_C#\Fliapy Bird Game\obj\Debug\Fliapy Bird Game.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Excesize_C#\Fliapy Bird Game\obj\Debug\Fliapy Bird Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Desktop\Excesize_C#\Fliapy Bird Game\obj\Debug\Fliapy_Bird_Game.Form1.resources
+C:\Users\lenovo\Desktop\Excesize_C#\Fliapy Bird Game\obj\Debug\Fliapy_Bird_Game.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Excesize_C#\Fliapy Bird Game\obj\Debug\Fliapy Bird Game.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Excesize_C#\Fliapy Bird Game\obj\Debug\Fliapy Bird Game.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Excesize_C#\Fliapy Bird Game\obj\Debug\Fliapy Bird Game.exe
+C:\Users\lenovo\Desktop\Excesize_C#\Fliapy Bird Game\obj\Debug\Fliapy Bird Game.pdb
